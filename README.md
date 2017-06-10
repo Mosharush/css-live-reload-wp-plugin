@@ -1,11 +1,17 @@
 # Css Live Reload
 
 **Contributors:** [localghost-il](https://profiles.wordpress.org/localghost-il)
+
 **Tags:** css, reload, autoupdate, live, preview
+
 **Donate link:** https://webstorm.co.il/css-live-reload/buy-me-a-beer
+
 **Requires at least:** 3.0.1
+
 **Tested up to:** 4.8
+
 **License:** GPLv3 or later
+
 **License URI:** https://www.gnu.org/licenses/gpl-3.0.txt
 
 
@@ -38,22 +44,29 @@ Work it faster better :)
 
 ## Frequently Asked Questions
 > Q: How to use this plugin?
+
 > A: Just press on F9 key on your keyboard when you see your site front, it's will auto refresh your CSS resources.
 
+----
+
 > Q: How I can install this plugin on my site?
+
 > A: Like all plugins, for more information look at "Installation" section above behind.
 
+----
+
 > Q: Can I use another key for reload the css files?
+
 > A: Not now, further options will be available later.
 
-# Screenshots
+## Screenshots
 1. Desktop reload by press on F9 key [screenshot-1.png](https://raw.githubusercontent.com/Webstorm-IL/css-live-reload-wp-plugin/master/css-live-reload/screenshot-1.png)
 2. Mobile reload by shake the phone [screenshot-2.png](https://raw.githubusercontent.com/Webstorm-IL/css-live-reload-wp-plugin/master/css-live-reload/screenshot-2.png)
 
-# Changelog
+## Changelog
 **1.0.0**
 * Initial release, Mobile shake for reloaded.
 
-# Upgrade Notice
+## Upgrade Notice
 **1.0.0**
 * Initial release.
