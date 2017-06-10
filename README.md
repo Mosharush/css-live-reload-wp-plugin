@@ -23,19 +23,19 @@ Work it faster better :)
 
 ## Installation
 ###### Install from Wordpress plugins repository:
-	1. Login to `admin dashboard`.
-	2. Go to `Plugins -> Add New`.
-	3. Search for Css Live Reload and install it.
-	4. Activate the plugin.
-	5. Continue developing and when are you want to reload your css just click on F9 :)
+1. Login to `admin dashboard`.
+2. Go to `Plugins -> Add New`.
+3. Search for Css Live Reload and install it.
+4. Activate the plugin.
+5. Continue developing and when are you want to reload your css just click on F9 :)
 
 ###### Custom Upload:
-	1. Download the plugin zip file.
-	2. Upload the content of zip to your `wp-content/plugins/` directory.
-	3. Login to admin dashboard.
-	4. Go to Plugins.
-	5. Search for Css Live Reload and activate it.
-	6. Continue developing and when are you want to reload your css just click on F9 :)
+1. Download the plugin zip file.
+2. Upload the content of zip to your `wp-content/plugins/` directory.
+3. Login to admin dashboard.
+4. Go to Plugins.
+5. Search for Css Live Reload and activate it.
+6. Continue developing and when are you want to reload your css just click on F9 :)
 
 ## Frequently Asked Questions
 > Q: How to use this plugin?  
