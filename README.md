@@ -1,14 +1,16 @@
 # Css Live Reload
 
-**Contributors:** [localghost-il](https://profiles.wordpress.org/localghost-il)
-**Tags:** css, reload, autoupdate, live, preview
-**Donate link:** https://webstorm.co.il/css-live-reload/buy-me-a-beer
-**Requires at least:** 3.0.1
-**Tested up to:** 4.8
-**License:** GPLv3 or later
-**License URI:** https://www.gnu.org/licenses/gpl-3.0.txt
+```
+Reload all CSS files resources on page with one click (or shake - mobile option) without refreshing the page.
+```
 
-> Reload all CSS files resources on page with one click (or shake - mobile option) without refreshing the page.
+**Contributors:** [localghost-il](https://profiles.wordpress.org/localghost-il)  
+**Tags:** css, reload, autoupdate, live, preview  
+**Donate link:** https://webstorm.co.il/css-live-reload/buy-me-a-beer  
+**Requires at least:** 3.0.1  
+**Tested up to:** 4.8  
+**License:** GPLv3 or later  
+**License URI:** https://www.gnu.org/licenses/gpl-3.0.txt  
 
 ## Description
 A simple and powerful plugin.
@@ -36,17 +38,13 @@ Work it faster better :)
 	6. Continue developing and when are you want to reload your css just click on F9 :)
 
 ## Frequently Asked Questions
-> Q: How to use this plugin?
+> Q: How to use this plugin?  
 > A: Just press on F9 key on your keyboard when you see your site front, it's will auto refresh your CSS resources.
-
 ----
-
-> Q: How I can install this plugin on my site?
+> Q: How I can install this plugin on my site?  
 > A: Like all plugins, for more information look at "Installation" section above behind.
-
 ----
-
-> Q: Can I use another key for reload the css files?
+> Q: Can I use another key for reload the css files?  
 > A: Not now, further options will be available later.
 
 ## Screenshots
