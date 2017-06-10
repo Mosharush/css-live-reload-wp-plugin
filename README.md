@@ -1,4 +1,5 @@
 # Css Live Reload
+
 Contributors: [localghost-il](https://profiles.wordpress.org/localghost-il)
 Tags: css, reload, autoupdate, live, preview
 Donate link: https://webstorm.co.il/css-live-reload/buy-me-a-beer
@@ -21,33 +22,33 @@ Work it faster better :)
 
 ## Installation
 ###### Install from Wordpress plugins repository:
-	1. Login to admin dashboard.
-	2. Go to Plugins -> Add New.
+	1. Login to `admin dashboard`.
+	2. Go to `Plugins -> Add New`.
 	3. Search for Css Live Reload and install it.
 	4. Activate the plugin.
 	5. Continue developing and when are you want to reload your css just click on F9 :)
 
 ###### Custom Upload:
 	1. Download the plugin zip file.
-	2. Upload the content of zip to your \"wp-content/plugins/\" directory.
+	2. Upload the content of zip to your `wp-content/plugins/` directory.
 	3. Login to admin dashboard.
 	4. Go to Plugins.
 	5. Search for Css Live Reload and activate it.
 	6. Continue developing and when are you want to reload your css just click on F9 :)
 
 ## Frequently Asked Questions
-** How to use this plugin? **
-Just press on F9 key on your keyboard when you see your site front, it\'s will auto refresh your CSS resources.
+> How to use this plugin?
+Just press on F9 key on your keyboard when you see your site front, it's will auto refresh your CSS resources.
 
-** How I can install this plugin on my site? **
+> How I can install this plugin on my site?
 Like all plugins, for more information look at "Installation" section above behind.
 
-** Can I use another key for reload the css files? **
+> Can I use another key for reload the css files?
 Not now, further options will be available later.
 
 # Screenshots
-1. Desktop reload by press on F9 key [screenshot-1.png](https://raw.githubusercontent.com/Webstorm-IL/css-live-reload-wp-plugin/master/screenshot-1.png)
-2. Mobile reload by shake the phone [screenshot-2.png](https://raw.githubusercontent.com/Webstorm-IL/css-live-reload-wp-plugin/master/screenshot-2.png)
+1. Desktop reload by press on F9 key [screenshot-1.png](https://raw.githubusercontent.com/Webstorm-IL/css-live-reload-wp-plugin/master/css-live-reload/screenshot-1.png)
+2. Mobile reload by shake the phone [screenshot-2.png](https://raw.githubusercontent.com/Webstorm-IL/css-live-reload-wp-plugin/master/css-live-reload/screenshot-2.png)
 
 # Changelog
 ** 1.0.0 **
