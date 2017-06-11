@@ -1,7 +1,7 @@
 === Css Live Reload ===
 Contributors: localghost-il
 Tags: css,reload,autoupdate,live,preview
-Donate link: https://webstorm.co.il/css-live-reload/buy-me-a-beer
+Donate link: https://www.webstorm.co.il/css-live-reload/buy-me-a-beer
 Requires at least: 3.0.1
 Tested up to: 4.8
 Stable tag: trunk
