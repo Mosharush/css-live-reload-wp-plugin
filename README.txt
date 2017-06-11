@@ -8,16 +8,14 @@ Stable tag: trunk
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.txt
 
-Reload all CSS files resources on page with one click (or shake - mobile option) without refreshing the page.
+Reload all CSS Files resources on your page by just one click (if surfing via mobile Phone - shake it) without refreshing the page.
 
 == Description ==
-A simple and powerful plugin.
-Sometimes We just editing a property on our stylesheet file, so why to reload all page?
-It's get many another requests and so slowly then reload only the CSS files.
-Now we can do it with a simple plugin, just click on F9 key and reload all CSS resources in page.
-For mobile devices debug you can only shake the phone and all css will reloaded.
-No cache, No unnecessary requests, No more slowly!
-Work it faster better :)
+A simple and powerful plugin. Often we simply edit a section on our style sheet file, so why reloading the entire page?! It creates many unnecessary requests and thus makes reloading slower, instead of just reloading the css files.
+Now, we can achieve that with a simple plugin, by simply clicking on f9 and then reload all Css resources on the page!
+
+As for mobile devices debugging, you can simply shake your phone and all Css files will be reloaded.
+No cache, no unnecessary requests, no more slow reloading!
 
 == Installation ==
 = Install from Wordpress plugins repository: =
