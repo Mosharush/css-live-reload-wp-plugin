@@ -3,7 +3,7 @@ Contributors: localghost-il
 Tags: css,reload,autoupdate,live,preview
 Donate link: https://www.webstorm.co.il/css-live-reload/buy-me-a-beer
 Requires at least: 3.0.1
-Tested up to: 4.8
+Tested up to: 5.0.2
 Stable tag: trunk
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.txt
@@ -54,3 +54,6 @@ Not now, further options will be available later.
 == Upgrade Notice ==
 = 1.0.0 =
 * Initial release.
+
+= 1.0.1 =
+* Update Tested up & move to mirror github work method
