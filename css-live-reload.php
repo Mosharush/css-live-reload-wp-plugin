@@ -16,7 +16,7 @@
  * Plugin Name:       Css Live Reload
  * Plugin URI:        https://www.webstorm.co.il/css-live-reload/
  * Description:       Reload all CSS files resources on page with one click without refreshing the page.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Moshe Harush
  * Author URI:        https://www.webstorm.co.il
  * License:           GPL-3.0+
